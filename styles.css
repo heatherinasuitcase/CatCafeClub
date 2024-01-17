@@ -9,7 +9,7 @@ html {
   
   header {
     height: 25.5rem;
-    background-image: url('TopBanner.jpg');
+    background-image: url('./images/TopBanner.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
